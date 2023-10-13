@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TABLICA YMNOJENIA", "TABLICA YMNOJENIA\TABLICA YMNOJENIA.csproj", "{4D31F0E1-2367-495B-93D2-DE6EBC16AC64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D31F0E1-2367-495B-93D2-DE6EBC16AC64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D31F0E1-2367-495B-93D2-DE6EBC16AC64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D31F0E1-2367-495B-93D2-DE6EBC16AC64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D31F0E1-2367-495B-93D2-DE6EBC16AC64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A9D304D-D7A3-484B-AD8A-4CA5E86CB43F}
+	EndGlobalSection
+EndGlobal
